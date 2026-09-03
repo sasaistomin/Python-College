@@ -1,0 +1,4 @@
+aName: sasha
+Age: 17
+City: Odessa
+Love langith programming: Python
